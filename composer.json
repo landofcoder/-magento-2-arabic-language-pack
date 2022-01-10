@@ -1,0 +1,26 @@
+{
+  "name": "landofcoder/magento-2-arabic-language-pack",
+  "description": "Arabic language package for Magento 2",
+  "homepage": "https://landofcoder.com",
+  "require": {
+  },
+  "type": "magento2-language",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Landofcoder team",
+      "email": "info@landofcodre.com",
+      "homepage": "https://landofcoder.com",
+      "role": "Extensions Provider"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
